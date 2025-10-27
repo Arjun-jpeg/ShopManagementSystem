@@ -98,7 +98,7 @@ Product Product12 is now OUT OF STOCK!
 ##  How to Run
 1. Download or clone this repository:
    ```bash
-    https://github.com/arjun-jpeg/ShopManagementSystem.git
+    https://github.com/Arjun-jpeg/ShopManagementSystem.git
 2.Open the project in your Java IDE.
 3.Compile and run Shop-Management-System.java.
 3.Login credentials:
